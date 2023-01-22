@@ -12,10 +12,10 @@ public class Programmer {
         return name;
     }
     public String getProgrammingLanguage(){
-        return getProgrammingLanguage();
+        return programmingLanguage;
     }
     public int getYearsOfExperience(){
-        return getYearsOfExperience();
+        return yearsOfExperience;
     }
     public void printProgrammerDetails() {
         System.out.println(name);
